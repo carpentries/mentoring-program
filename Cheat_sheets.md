@@ -1,7 +1,3 @@
-# Resources for Mentoring  
-
-
-
 ## Help Guides for SWC/DC Content Areas  
 
 ### Git and GitHub  
