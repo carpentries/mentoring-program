@@ -17,7 +17,7 @@ Mentors will guide small groups of no more than five mentees towards a particula
 + Mid-Program Touch Base: November 27th 
 + Mentoring Program Virtual Showcase: January 8th  
 
-For more information, and to sign up for the info session, see the mentorship info [Etherpad](http://pad.software-carpentry.org/mentorship-info).
+For more information, and to sign up for the info session, see the mentorship info [Etherpad](http://pad.software-carpentry.org/mentorship-info). [Mentor applications](https://goo.gl/forms/SO6qtGmAP7d6sIJL2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/oM23ahltliI9t96T2) are open to instructors who have taught less than two workshops.
 ____________________________________________________________________________
 
 ## Carpentries Mentoring Program Highlights  
@@ -53,7 +53,7 @@ Lastly, both mentors and mentees will receive a certificate at the end of the pr
 
 ## Carpentries Mentoring Program Outline   
 
-Groups are encouraged to set [SMART](http://www.hr.virginia.edu/uploads/documents/media/Writing_SMART_Goals.pdf) goals to be achieved during the course of the program. The following are sample mentoring program outlines. Groups are free to decide how to spend their time. 
+Groups are encouraged to set [SMART](http://www.hr.virginia.edu/uploads/documents/media/Writing_SMART_Goals.pdf) goals to be achieved during the course of the program. The following are sample mentoring program outlines. Groups are free to decide how to spend their time.
 
 ### Sample Mentoring Program Outline: Lesson Maintenance
 + Introductions, review the Carpentries community culture, and communication channels.  
