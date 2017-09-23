@@ -94,7 +94,7 @@ Groups are encouraged to set [SMART](http://www.hr.virginia.edu/uploads/document
 + Finish slide for mentoring program showcase. Attend mentoring program showcase.  
 
 ## Contact Information
-If you have questions about the mentoring program please contact [Belinda Weaver](mailto: bweavercarpentries.org).
+If you have questions about the mentoring program please contact [Belinda Weaver](mailto:bweaver@carpentries.org?subject=Mentoring%20Program).
 
 
 
