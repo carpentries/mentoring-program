@@ -2,15 +2,14 @@
 Repo contains information for the Carpentries Mentoring Program.
 
 ## Important Dates:
-- Carpentries Mentoring Program: October 15th - December 11, 2017  
-- Mentor Applications Open: September 22nd   
-- Mentoring Program [Info Session](http://pad.software-carpentry.org//mentorship-info): September 26th  
-- Mentor Applications Close: October 9th  
-- Mentee Applications Open: September 26th  
-- Mentee Applications Close: October 10th  
-- Mentoring Groups Matched: October 13th  
-- Mid-Program Touch Base: November 12th  
-- Mentoring Program Virtual Showcase: December 11th   
++ Carpentries Mentoring Program: October 23 - January 9, 2017  
++ Mentoring Subcommittee Meeting: September 25th
++ Mentoring Program Info Session: October 2nd   
++ Mentor & Mentee Applications Open: October 2nd   
++ Mentor & Mentee Applications Close: October 16th    
++ Mentoring Groups Matched: October 23rd  
++ Mid-Program Touch Base: November 27th 
++ Mentoring Program Virtual Showcase: January 8th  
 
 ## Applications
 + [Mentor application](https://goo.gl/forms/hEkmp1GxKYXZkjBJ3)  
