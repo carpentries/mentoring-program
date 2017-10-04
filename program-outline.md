@@ -1,6 +1,6 @@
 ## Carpentries Mentoring Program Synopsis
 
-The Carpentries want to offer opportunities to help community members learn and grow. Accordingly, mentoring is one professional development opportunity we offer our growing instructor pool. 
+Mentoring is a professional development opportunity that The Carpentries offer our growing instructor pool to help community members learn and grow.
 
 The Mentoring Program supports instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring will help you gain the confidence, technical skills, and teaching skills you need to reach your goal. 
 
@@ -8,14 +8,14 @@ Mentors will guide small groups of no more than five mentees towards a particula
 
 ## Carpentries Mentoring Program Schedule  
 
-+ Carpentries Mentoring Program: October 23 - January 9, 2017  
-+ Mentoring Subcommittee Meeting: September 25th
-+ Mentoring Program Info Session: October 2nd   
-+ Mentor & Mentee Applications Open: October 2nd   
-+ Mentor & Mentee Applications Close: October 16th    
-+ Mentoring Groups Matched: October 23rd  
-+ Mid-Program Touch Base: November 27th 
-+ Mentoring Program Virtual Showcase: January 8th  
++ Carpentries Mentoring Program: October 25th - January 10, 2017  
++ Mentor & Mentee Applications Open: October 2nd
++ Mentoring Program Info Session: October 12th      
++ Mentor & Mentee Applications Close: October 18th    
++ Mentoring Subcommittee Meeting: October 23rd
++ Mentoring Groups Matched: October 25th  
++ Mid-Program Touch Base: November 29th 
++ Mentoring Program Virtual Showcase: January 10th  
 
 For more information, and to sign up for the info session, see the mentorship info [Etherpad](http://pad.software-carpentry.org/mentorship-info). [Mentor applications](https://goo.gl/forms/SO6qtGmAP7d6sIJL2) are open to instructors who have taught at least two workshops. [Mentee applications](https://goo.gl/forms/oM23ahltliI9t96T2) are open to instructors who have taught less than two workshops.
 ____________________________________________________________________________
@@ -94,7 +94,7 @@ Groups are encouraged to set [SMART](http://www.hr.virginia.edu/uploads/document
 + Finish slide for mentoring program showcase. Attend mentoring program showcase.  
 
 ## Contact Information
-If you have questions about the mentoring program please contact [Belinda Weaver](mailto:bweaver@carpentries.org?subject=Mentoring%20Program).
+If you have questions about the mentoring program please contact [Kari L. Jordan](mailto:kariljordan@carpentries.org?subject=Mentoring%20Program) or [Belinda Weaver](mailto:bweaver@carpentries.org?subject=Mentoring%20Program).
 
 
 
